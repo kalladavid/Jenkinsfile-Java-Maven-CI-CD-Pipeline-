@@ -5,7 +5,6 @@ pipeline {
   tools {
     // Make sure these tool names match your Jenkins global tools configuration
     jdk 'jdk'
-    maven 'Maven-3.6.3'
   }
 
   environment {
