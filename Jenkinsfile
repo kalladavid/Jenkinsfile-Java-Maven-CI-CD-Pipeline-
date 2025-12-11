@@ -20,7 +20,7 @@ pipeline {
     stage('Finish') {
       steps {
         echo "Pipeline finished"
-        echo "🎉 Congrats Bobby! Your Jenkins Pipeline ran successfully! 🎉"
+        echo "🎉 Congrats Noe! Your Jenkins Pipeline ran successfully! 🎉"
 
       }
     }
